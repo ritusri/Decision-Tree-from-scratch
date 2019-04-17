@@ -4,6 +4,7 @@ Implementation-of-Decision Tree-Machine-Learning-algorithms-from-scratch-in-Pyth
 Topic cover
 1. Encoding process for the categorical variable
 2. Data scalling
-3. Find entropy for desicion tree
+3. Get best root to finding entropy
 4. Data spliting
-5. Accuracy masure
+5. classification model
+6. Accuracy masure
